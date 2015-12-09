@@ -1,6 +1,6 @@
 # react-redux-router5
 A client-only boilerplate using React + Redux + Router5.
-Universal version of this boilerplate using [hapi](http://hapijs.com/) could be found here: [universal-react-redux-hapi](https://github.com/nanopx/universal-react-redux-hapi)
+> Universal version of this boilerplate using [hapi](http://hapijs.com/) could be found here: [universal-react-redux-hapi](https://github.com/nanopx/universal-react-redux-hapi)
 
 [![Dependency Status](https://david-dm.org/nanopx/react-redux-router5.svg?style=flat-square)](https://david-dm.org/nanopx/react-redux-router5)
 [![devDependency Status](https://david-dm.org/nanopx/react-redux-router5/dev-status.svg?style=flat-square)](https://david-dm.org/nanopx/react-redux-router5#info=devDependencies)
