@@ -5,9 +5,9 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nanopx/universal-react-redux-hapi.git"
+    "url": "https://github.com/nanopx/react-redux-router5.git"
   },
-  "homepage": "https://github.com/nanopx/universal-react-redux-hapi",
+  "homepage": "https://github.com/nanopx/react-redux-router5",
   "scripts": {
     "start": "node ./index.js",
     "build": "webpack --verbose --colors --display-error-details --config build.config.js",
