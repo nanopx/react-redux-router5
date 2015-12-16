@@ -1,14 +1,14 @@
 # react-redux-router5
 A client-only boilerplate using React + Redux + Router5.
 - Universal version of this boilerplate using [hapi](http://hapijs.com/) could be found here: [universal-react-redux-hapi](https://github.com/nanopx/universal-react-redux-hapi)
-- [Electron](http://electron.atom.io/) version of this boilerplate could be found here: [electron-react-redux-router5](https://github.com/nanopx/electron-react-redux-router5) - Currently WIP
+- [Electron](http://electron.atom.io/) version of this boilerplate could be found here: [electron-react-redux-router5](https://github.com/nanopx/electron-react-redux-router5)
 
 [![Dependency Status](https://david-dm.org/nanopx/react-redux-router5.svg?style=flat-square)](https://david-dm.org/nanopx/react-redux-router5)
 [![devDependency Status](https://david-dm.org/nanopx/react-redux-router5/dev-status.svg?style=flat-square)](https://david-dm.org/nanopx/react-redux-router5#info=devDependencies)
 
 ## Features
 * [React Hot Loader](https://gaearon.github.io/react-hot-loader/)
-  - For hot reloads
+  - For hot reloads.
 * [React](https://facebook.github.io/react/)
   - For the UI.
 * [Radium](http://projects.formidablelabs.com/radium/) + [react-styling](https://github.com/halt-hammerzeit/react-styling)
